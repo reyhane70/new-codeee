@@ -1,6 +1,6 @@
 # new-codeee
 just testing github
- = []
+task = []
 
 def add_task(task):
     tasks.append(task)
