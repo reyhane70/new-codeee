@@ -16,4 +16,4 @@ while True:
     elif cmd == "show":
         show_tasks()
     elif cmd == "exit":
-        
+        break
